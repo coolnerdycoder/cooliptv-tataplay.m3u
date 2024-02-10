@@ -1,5 +1,2 @@
-#<html>
-	<head>
-	Cool IPTV-Enhancing Your Streaming
-	</head>
-</html>
+# COOLIPTV
+### 🔹Enhancing Your Streaming 📺
