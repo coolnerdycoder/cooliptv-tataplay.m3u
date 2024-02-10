@@ -1,2 +1,2 @@
-# COOLIPTV
+# COOL IPTV
 ### 🔹Enhancing Your Streaming 📺
